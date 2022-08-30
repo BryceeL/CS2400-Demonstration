@@ -21,7 +21,7 @@ public class CS1400_Lab1{
 		// declare three integer variables to hold the test scores  
 		int test1, test2 = 0, test3 = 0;
 		
-		
+		//A new comment
 		// declare one integer constant to hold the number of tests  
 		final int NUM_TESTS = 3;
 		
